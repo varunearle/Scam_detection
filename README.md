@@ -61,6 +61,9 @@ Keywords: click, blocked
 
 The project can be deployed using **Streamlit Cloud** for a live web application.
 
+##depoly link 
+https://scamdetection-mspwwsjg43t6r8pstsxhlh.streamlit.app/
+
 
 
 ## 🎯 Future Improvements
